@@ -50,9 +50,9 @@ manager: craigg
   
 ## Previous Versions  
   
--   [Discontinued Database Engine Functionality in SQL Server 2014](discontinued-database-engine-functionality-in-sql-server-2016.md))  
+-   [Discontinued Database Engine Functionality in SQL Server 2014](../2014/database-engine/discontinued-database-engine-functionality-in-sql-server-2016.md))  
   
--   [Discontinued Database Engine Functionality in SQL Server 2012](discontinued-database-engine-functionality-in-sql-server-2016.md))  
+-   [Discontinued Database Engine Functionality in SQL Server 2012](../2014/database-engine/discontinued-database-engine-functionality-in-sql-server-2016.md))  
   
 -   [Discontinued Database Engine Functionality in SQL Server 2008](discontinued-database-engine-functionality-in-sql-server-2016.md))  
   
